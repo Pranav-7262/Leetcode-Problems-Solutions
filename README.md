@@ -9,6 +9,7 @@ Solutions of Leetcode problems, which I solved
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0687-longest-univalue-path](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
@@ -16,6 +17,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0687-longest-univalue-path](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0687-longest-univalue-path) |
 ## Binary Search Tree
@@ -27,6 +29,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0687-longest-univalue-path](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0687-longest-univalue-path) |
 ## Stack
@@ -37,6 +40,10 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
