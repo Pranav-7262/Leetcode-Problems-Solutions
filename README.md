@@ -12,6 +12,7 @@ Solutions of Leetcode problems, which I solved
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -24,6 +25,7 @@ Solutions of Leetcode problems, which I solved
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -42,6 +44,7 @@ Solutions of Leetcode problems, which I solved
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -82,6 +85,14 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
