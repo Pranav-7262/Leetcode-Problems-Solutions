@@ -20,6 +20,7 @@ Solutions of Leetcode problems, which I solved
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0687-longest-univalue-path) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
@@ -37,6 +38,7 @@ Solutions of Leetcode problems, which I solved
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0687-longest-univalue-path) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
@@ -65,6 +67,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
