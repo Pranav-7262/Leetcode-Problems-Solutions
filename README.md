@@ -25,6 +25,7 @@ Solutions of Leetcode problems, which I solved
 | [0904-leaf-similar-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Solutions of Leetcode problems, which I solved
 | [0904-leaf-similar-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Solutions of Leetcode problems, which I solved
 | [0904-leaf-similar-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +90,7 @@ Solutions of Leetcode problems, which I solved
 | [0617-merge-two-binary-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
