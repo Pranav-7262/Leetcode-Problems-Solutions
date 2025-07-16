@@ -22,6 +22,7 @@ Solutions of Leetcode problems, which I solved
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -58,6 +59,7 @@ Solutions of Leetcode problems, which I solved
 | [0098-validate-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
@@ -75,6 +77,7 @@ Solutions of Leetcode problems, which I solved
 | [0617-merge-two-binary-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0687-longest-univalue-path](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0687-longest-univalue-path) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
