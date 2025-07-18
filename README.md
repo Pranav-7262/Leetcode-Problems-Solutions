@@ -27,6 +27,7 @@ Solutions of Leetcode problems, which I solved
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -53,6 +54,7 @@ Solutions of Leetcode problems, which I solved
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -86,6 +88,7 @@ Solutions of Leetcode problems, which I solved
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -107,6 +110,7 @@ Solutions of Leetcode problems, which I solved
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1005-univalued-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
@@ -134,6 +138,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## String
 |  |
 | ------- |
