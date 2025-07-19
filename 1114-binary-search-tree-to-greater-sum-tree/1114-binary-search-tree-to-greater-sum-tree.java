@@ -24,7 +24,6 @@ class Solution {
         if(root == null) return;
         
         helper(root.right);
-        
         result +=root.val;
         root.val = result;
         helper(root.left);
