@@ -35,6 +35,7 @@ Solutions of Leetcode problems, which I solved
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -68,6 +69,7 @@ Solutions of Leetcode problems, which I solved
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -115,6 +117,7 @@ Solutions of Leetcode problems, which I solved
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -153,6 +156,7 @@ Solutions of Leetcode problems, which I solved
 ## Array
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
@@ -174,6 +178,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
