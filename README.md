@@ -23,6 +23,7 @@ Solutions of Leetcode problems, which I solved
 | [0543-diameter-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0687-longest-univalue-path) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -60,6 +61,7 @@ Solutions of Leetcode problems, which I solved
 | [0543-diameter-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0687-longest-univalue-path) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -110,6 +112,7 @@ Solutions of Leetcode problems, which I solved
 | [0543-diameter-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0687-longest-univalue-path) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
