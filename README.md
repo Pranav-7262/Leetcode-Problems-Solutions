@@ -10,6 +10,7 @@ Solutions of Leetcode problems, which I solved
 | [0098-validate-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -51,6 +52,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -104,6 +106,7 @@ Solutions of Leetcode problems, which I solved
 | [0098-validate-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
