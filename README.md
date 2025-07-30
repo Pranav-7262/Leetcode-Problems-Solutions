@@ -8,6 +8,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0110-balanced-binary-tree) |
@@ -51,6 +52,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -89,6 +91,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -104,6 +107,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0110-balanced-binary-tree) |
