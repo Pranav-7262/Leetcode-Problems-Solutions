@@ -195,6 +195,7 @@ Solutions of Leetcode problems, which I solved
 | [0118-pascals-triangle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0118-pascals-triangle) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1580-shuffle-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1580-shuffle-the-array) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -203,16 +204,19 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
