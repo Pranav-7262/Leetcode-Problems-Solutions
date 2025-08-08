@@ -28,6 +28,7 @@ Solutions of Leetcode problems, which I solved
 | [0617-merge-two-binary-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0687-longest-univalue-path) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -76,6 +77,7 @@ Solutions of Leetcode problems, which I solved
 | [0617-merge-two-binary-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0687-longest-univalue-path) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -110,6 +112,7 @@ Solutions of Leetcode problems, which I solved
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
@@ -139,6 +142,7 @@ Solutions of Leetcode problems, which I solved
 | [0617-merge-two-binary-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0687-longest-univalue-path) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
