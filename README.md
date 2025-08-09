@@ -270,11 +270,20 @@ Solutions of Leetcode problems, which I solved
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [3859-maximum-product-of-two-digits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## String Matching
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0686-repeated-string-match) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
