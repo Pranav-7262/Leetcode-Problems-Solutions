@@ -207,6 +207,7 @@ Solutions of Leetcode problems, which I solved
 | [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1580-shuffle-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1580-shuffle-the-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1944-truncate-sentence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1944-truncate-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -250,6 +251,7 @@ Solutions of Leetcode problems, which I solved
 | [0686-repeated-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0686-repeated-string-match) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1944-truncate-sentence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1944-truncate-sentence) |
 | [3396-valid-word](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3396-valid-word) |
 ## Backtracking
 |  |
