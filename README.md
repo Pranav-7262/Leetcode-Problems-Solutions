@@ -206,6 +206,7 @@ Solutions of Leetcode problems, which I solved
 | [0506-relative-ranks](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0506-relative-ranks) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1580-shuffle-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1580-shuffle-the-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -248,6 +249,7 @@ Solutions of Leetcode problems, which I solved
 | [0257-binary-tree-paths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0257-binary-tree-paths) |
 | [0686-repeated-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0686-repeated-string-match) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3396-valid-word](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3396-valid-word) |
 ## Backtracking
 |  |
@@ -284,6 +286,10 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
