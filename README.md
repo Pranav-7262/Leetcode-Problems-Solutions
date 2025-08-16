@@ -227,6 +227,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1448-maximum-69-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1448-maximum-69-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -282,6 +283,7 @@ Solutions of Leetcode problems, which I solved
 | [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [3859-maximum-product-of-two-digits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## String Matching
