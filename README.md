@@ -211,6 +211,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0118-pascals-triangle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0118-pascals-triangle) |
 | [0506-relative-ranks](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0506-relative-ranks) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0654-maximum-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0654-maximum-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -251,6 +252,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -263,6 +265,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0257-binary-tree-paths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0257-binary-tree-paths) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0686-repeated-string-match) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
