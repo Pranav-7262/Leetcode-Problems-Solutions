@@ -224,6 +224,7 @@ Solutions of Leetcode problems, which I solved
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
@@ -277,6 +278,7 @@ Solutions of Leetcode problems, which I solved
 | [1970-sorting-the-sentence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1970-sorting-the-sentence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2427-first-letter-to-appear-twice) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3396-valid-word](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3396-valid-word) |
 ## Backtracking
 |  |
