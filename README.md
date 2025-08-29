@@ -210,6 +210,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0136-single-number) |
 | [0506-relative-ranks](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0654-maximum-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0654-maximum-binary-tree) |
@@ -318,6 +319,7 @@ Solutions of Leetcode problems, which I solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0342-power-of-four) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2427-first-letter-to-appear-twice) |
