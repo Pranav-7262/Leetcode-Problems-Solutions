@@ -224,6 +224,7 @@ Solutions of Leetcode problems, which I solved
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1580-shuffle-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1580-shuffle-the-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -336,6 +337,7 @@ Solutions of Leetcode problems, which I solved
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0728-self-dividing-numbers) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1448-maximum-69-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
