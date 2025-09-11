@@ -1,6 +1,7 @@
 class Solution {
     public String sortVowels(String s) {
         List<Character> list = new ArrayList<>();
+        
         Set<Character> set = new HashSet<>(Arrays.asList(
                 'a', 'e', 'i', 'o', 'u',
                 'A', 'E', 'I', 'O', 'U'
