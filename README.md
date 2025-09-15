@@ -289,6 +289,7 @@ Solutions of Leetcode problems, which I solved
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -303,6 +304,7 @@ Solutions of Leetcode problems, which I solved
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0686-repeated-string-match) |
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1944-truncate-sentence) |
