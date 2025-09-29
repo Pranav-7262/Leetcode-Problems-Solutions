@@ -243,6 +243,7 @@ Solutions of Leetcode problems, which I solved
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1580-shuffle-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1580-shuffle-the-array) |
 | [1813-maximum-erasure-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -374,6 +375,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0506-relative-ranks) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2329-maximum-product-after-k-increments) |
 ## Math
@@ -428,6 +430,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1813-maximum-erasure-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1813-maximum-erasure-value) |
 ## Bucket Sort
 |  |
@@ -449,6 +452,18 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2481-strictly-palindromic-number) |
+## Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
