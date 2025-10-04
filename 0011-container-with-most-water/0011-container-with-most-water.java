@@ -1,6 +1,6 @@
 class Solution {
     public int maxArea(int[] arr) {
-          int start = 0;
+        int start = 0;
         int end = arr.length-1;
         int maxi = 0;
         while(start < end) {
