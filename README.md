@@ -265,6 +265,7 @@ Solutions of Leetcode problems, which I solved
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -292,6 +293,7 @@ Solutions of Leetcode problems, which I solved
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -310,6 +312,7 @@ Solutions of Leetcode problems, which I solved
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3859-maximum-product-of-two-digits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3859-maximum-product-of-two-digits) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -336,6 +339,7 @@ Solutions of Leetcode problems, which I solved
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
 |  |
 | ------- |
