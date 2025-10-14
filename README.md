@@ -244,6 +244,7 @@ Solutions of Leetcode problems, which I solved
 | [0525-contiguous-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
@@ -475,6 +476,7 @@ Solutions of Leetcode problems, which I solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
