@@ -260,6 +260,7 @@ Solutions of Leetcode problems, which I solved
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1580-shuffle-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
