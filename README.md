@@ -239,6 +239,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0136-single-number) |
@@ -291,6 +292,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
 | [0611-valid-triangle-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
