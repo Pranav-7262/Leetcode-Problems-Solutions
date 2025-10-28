@@ -49,6 +49,7 @@ Solutions of Leetcode problems, which I solved
 | [0904-leaf-similar-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0975-range-sum-of-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -181,6 +182,7 @@ Solutions of Leetcode problems, which I solved
 | [0904-leaf-similar-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0975-range-sum-of-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -224,6 +226,7 @@ Solutions of Leetcode problems, which I solved
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
