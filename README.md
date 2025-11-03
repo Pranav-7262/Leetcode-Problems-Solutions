@@ -242,6 +242,7 @@ Solutions of Leetcode problems, which I solved
 | [0118-pascals-triangle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Array
 |  |
 | ------- |
@@ -279,6 +280,7 @@ Solutions of Leetcode problems, which I solved
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1580-shuffle-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -327,6 +329,7 @@ Solutions of Leetcode problems, which I solved
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1448-maximum-69-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -416,6 +419,7 @@ Solutions of Leetcode problems, which I solved
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1873-longest-nice-substring](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1873-longest-nice-substring) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1944-truncate-sentence) |
