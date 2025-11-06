@@ -399,6 +399,7 @@ Solutions of Leetcode problems, which I solved
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -439,6 +440,7 @@ Solutions of Leetcode problems, which I solved
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3396-valid-word) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -494,6 +496,7 @@ Solutions of Leetcode problems, which I solved
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3336-water-bottles-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3336-water-bottles-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -532,6 +535,7 @@ Solutions of Leetcode problems, which I solved
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2102-find-the-middle-index-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2714-left-and-right-sum-differences) |
+| [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Monotonic Stack
 |  |
@@ -614,11 +618,16 @@ Solutions of Leetcode problems, which I solved
 ## Number Theory
 |  |
 | ------- |
+| [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
