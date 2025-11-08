@@ -289,6 +289,7 @@ Solutions of Leetcode problems, which I solved
 | [1813-maximum-erasure-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1944-truncate-sentence) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2102-find-the-middle-index-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2102-find-the-middle-index-in-array) |
