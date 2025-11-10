@@ -210,6 +210,7 @@ Solutions of Leetcode problems, which I solved
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -312,6 +313,7 @@ Solutions of Leetcode problems, which I solved
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
@@ -344,6 +346,7 @@ Solutions of Leetcode problems, which I solved
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
@@ -408,6 +411,7 @@ Solutions of Leetcode problems, which I solved
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
@@ -547,6 +551,7 @@ Solutions of Leetcode problems, which I solved
 | [0496-next-greater-element-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0654-maximum-binary-tree) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
