@@ -1,6 +1,6 @@
 class Solution {
     public int minOperations(int[] nums) {
-        Deque<Integer> q = new ArrayDeque<>();
+        Stack<Integer> q = new Stack<>();
         int op = 0;
         for(int val : nums){
             while(!q.isEmpty() && q.peek() > val) {
