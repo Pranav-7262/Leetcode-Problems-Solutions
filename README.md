@@ -138,6 +138,7 @@ Solutions of Leetcode problems, which I solved
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1046-max-consecutive-ones-iii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -274,6 +275,7 @@ Solutions of Leetcode problems, which I solved
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1046-max-consecutive-ones-iii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -538,6 +540,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0525-contiguous-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -561,6 +564,7 @@ Solutions of Leetcode problems, which I solved
 | [0643-maximum-average-subarray-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1046-max-consecutive-ones-iii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
