@@ -649,6 +649,10 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
