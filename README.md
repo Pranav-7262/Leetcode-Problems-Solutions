@@ -254,6 +254,7 @@ Solutions of Leetcode problems, which I solved
 | [0011-container-with-most-water](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -326,6 +327,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [0234-palindrome-linked-list](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -359,6 +361,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0242-valid-anagram) |
