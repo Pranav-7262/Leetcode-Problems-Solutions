@@ -430,6 +430,7 @@ Solutions of Leetcode problems, which I solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0257-binary-tree-paths) |
 | [0409-longest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0409-longest-palindrome) |
@@ -526,6 +527,7 @@ Solutions of Leetcode problems, which I solved
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0686-repeated-string-match) |
 ## Bit Manipulation
@@ -650,6 +652,7 @@ Solutions of Leetcode problems, which I solved
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Enumeration
 |  |
@@ -664,6 +667,10 @@ Solutions of Leetcode problems, which I solved
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0620-not-boring-movies) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
