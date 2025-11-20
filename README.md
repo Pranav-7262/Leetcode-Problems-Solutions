@@ -676,6 +676,7 @@ Solutions of Leetcode problems, which I solved
 | [0595-big-countries](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0620-not-boring-movies) |
+| [1179-game-play-analysis-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1179-game-play-analysis-i) |
 ## Rolling Hash
 |  |
 | ------- |
