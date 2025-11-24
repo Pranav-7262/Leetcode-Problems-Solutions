@@ -278,6 +278,7 @@ Solutions of Leetcode problems, which I solved
 | [0713-subarray-product-less-than-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -543,6 +544,7 @@ Solutions of Leetcode problems, which I solved
 | [0191-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0342-power-of-four) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1873-longest-nice-substring](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1873-longest-nice-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
