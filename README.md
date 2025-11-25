@@ -404,6 +404,7 @@ Solutions of Leetcode problems, which I solved
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0697-degree-of-an-array) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -514,6 +515,7 @@ Solutions of Leetcode problems, which I solved
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0728-self-dividing-numbers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1448-maximum-69-number) |
