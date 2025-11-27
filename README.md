@@ -316,6 +316,7 @@ Solutions of Leetcode problems, which I solved
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3206-alternating-groups-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3206-alternating-groups-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -599,6 +600,7 @@ Solutions of Leetcode problems, which I solved
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3206-alternating-groups-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3206-alternating-groups-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
