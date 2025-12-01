@@ -317,6 +317,7 @@ Solutions of Leetcode problems, which I solved
 | [2714-left-and-right-sum-differences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [2899-last-visited-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2899-last-visited-integers) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3206-alternating-groups-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3206-alternating-groups-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -661,6 +662,7 @@ Solutions of Leetcode problems, which I solved
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2899-last-visited-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2899-last-visited-integers) |
 | [3336-water-bottles-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
