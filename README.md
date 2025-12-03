@@ -14,6 +14,7 @@ Solutions of Leetcode problems, which I solved
 | [0110-balanced-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -74,6 +75,7 @@ Solutions of Leetcode problems, which I solved
 | [0110-balanced-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -152,6 +154,7 @@ Solutions of Leetcode problems, which I solved
 | [0110-balanced-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0113-path-sum-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -218,6 +221,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0100-same-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -489,6 +493,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0234-palindrome-linked-list](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0234-palindrome-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
