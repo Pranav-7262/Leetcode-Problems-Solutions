@@ -361,6 +361,7 @@ Solutions of Leetcode problems, which I solved
 | [1285-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1753-maximum-score-from-removing-stones) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -516,6 +517,7 @@ Solutions of Leetcode problems, which I solved
 | [0506-relative-ranks](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1046-last-stone-weight) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1753-maximum-score-from-removing-stones) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -534,6 +536,7 @@ Solutions of Leetcode problems, which I solved
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1642-water-bottles) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1753-maximum-score-from-removing-stones) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
