@@ -280,6 +280,7 @@ Solutions of Leetcode problems, which I solved
 | [0654-maximum-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0697-degree-of-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -386,6 +387,7 @@ Solutions of Leetcode problems, which I solved
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0611-valid-triangle-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
