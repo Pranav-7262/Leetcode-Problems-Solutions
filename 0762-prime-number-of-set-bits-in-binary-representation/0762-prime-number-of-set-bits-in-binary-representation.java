@@ -2,7 +2,8 @@ class Solution {
     public int countPrimeSetBits(int left, int right) {
         int count = 0;
         for(int i=left;i<=right;i++) {
-            if(isPrime(method(i))) {
+            int cnt = Integer.bitCount(i);
+            if(isPrime(cnt)) {
                 count++;
             } 
         }
@@ -21,14 +22,6 @@ class Solution {
     }
     return true;
 }
-private static int method(int n) {
-        int count = 0;
 
-        while (n != 0) {
-            n = n & n-1; 
-            count++;
-        }
-        return count;
-    }
 
 }
