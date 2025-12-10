@@ -577,6 +577,7 @@ Solutions of Leetcode problems, which I solved
 | [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0461-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1873-longest-nice-substring](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1873-longest-nice-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2427-first-letter-to-appear-twice) |
