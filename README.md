@@ -455,6 +455,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0242-valid-anagram) |
@@ -531,6 +532,7 @@ Solutions of Leetcode problems, which I solved
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0326-power-of-three) |
@@ -569,6 +571,7 @@ Solutions of Leetcode problems, which I solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
@@ -675,6 +678,7 @@ Solutions of Leetcode problems, which I solved
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0067-add-binary) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2058-concatenation-of-array) |
