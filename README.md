@@ -260,6 +260,7 @@ Solutions of Leetcode problems, which I solved
 | [0027-remove-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -499,6 +500,7 @@ Solutions of Leetcode problems, which I solved
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0257-binary-tree-paths) |
 ## Linked List
@@ -576,6 +578,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
