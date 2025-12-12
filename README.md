@@ -305,6 +305,7 @@ Solutions of Leetcode problems, which I solved
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1720-decode-xored-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1720-decode-xored-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -593,6 +594,7 @@ Solutions of Leetcode problems, which I solved
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1720-decode-xored-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1720-decode-xored-array) |
 | [1873-longest-nice-substring](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1873-longest-nice-substring) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2427-first-letter-to-appear-twice) |
