@@ -587,6 +587,7 @@ Solutions of Leetcode problems, which I solved
 | [0078-subsets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0342-power-of-four) |
