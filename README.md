@@ -551,6 +551,7 @@ Solutions of Leetcode problems, which I solved
 | [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0728-self-dividing-numbers) |
@@ -595,6 +596,7 @@ Solutions of Leetcode problems, which I solved
 | [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
