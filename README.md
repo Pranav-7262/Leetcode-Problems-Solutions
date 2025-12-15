@@ -601,6 +601,7 @@ Solutions of Leetcode problems, which I solved
 | [0476-number-complement](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
