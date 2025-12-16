@@ -346,6 +346,7 @@ Solutions of Leetcode problems, which I solved
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -621,6 +622,7 @@ Solutions of Leetcode problems, which I solved
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -733,6 +735,7 @@ Solutions of Leetcode problems, which I solved
 | [2899-last-visited-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2899-last-visited-integers) |
 | [3336-water-bottles-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3336-water-bottles-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
