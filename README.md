@@ -309,6 +309,7 @@ Solutions of Leetcode problems, which I solved
 | [1720-decode-xored-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1720-decode-xored-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1813-maximum-erasure-value) |
+| [1829-maximum-xor-for-each-query](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1944-truncate-sentence) |
@@ -612,6 +613,7 @@ Solutions of Leetcode problems, which I solved
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1720-decode-xored-array) |
+| [1829-maximum-xor-for-each-query](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1873-longest-nice-substring](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1873-longest-nice-substring) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -639,6 +641,7 @@ Solutions of Leetcode problems, which I solved
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1829-maximum-xor-for-each-query](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2102-find-the-middle-index-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2714-left-and-right-sum-differences) |
