@@ -316,6 +316,7 @@ Solutions of Leetcode problems, which I solved
 | [1975-minimum-distance-to-the-target-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2058-concatenation-of-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -520,6 +521,7 @@ Solutions of Leetcode problems, which I solved
 | [0113-path-sum-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Linked List
 |  |
 | ------- |
@@ -620,6 +622,7 @@ Solutions of Leetcode problems, which I solved
 | [1829-maximum-xor-for-each-query](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1873-longest-nice-substring](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1873-longest-nice-substring) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2401-longest-nice-subarray](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2401-longest-nice-subarray) |
@@ -766,6 +769,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1925-count-square-sum-triples) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 ## Database
 |  |
