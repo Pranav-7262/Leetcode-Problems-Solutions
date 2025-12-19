@@ -628,6 +628,7 @@ Solutions of Leetcode problems, which I solved
 | [2401-longest-nice-subarray](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2595-number-of-even-and-odd-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
