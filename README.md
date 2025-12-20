@@ -285,6 +285,7 @@ Solutions of Leetcode problems, which I solved
 | [0713-subarray-product-less-than-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -487,6 +488,7 @@ Solutions of Leetcode problems, which I solved
 | [0451-sort-characters-by-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0686-repeated-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
