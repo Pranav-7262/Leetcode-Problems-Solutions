@@ -334,6 +334,7 @@ Solutions of Leetcode problems, which I solved
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2643-row-with-maximum-ones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2714-left-and-right-sum-differences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -794,6 +795,10 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0214-shortest-palindrome) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
