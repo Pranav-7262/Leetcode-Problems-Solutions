@@ -341,6 +341,7 @@ Solutions of Leetcode problems, which I solved
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2899-last-visited-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2899-last-visited-integers) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -462,6 +463,7 @@ Solutions of Leetcode problems, which I solved
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
@@ -635,6 +637,7 @@ Solutions of Leetcode problems, which I solved
 | [2595-number-of-even-and-odd-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2595-number-of-even-and-odd-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -693,6 +696,7 @@ Solutions of Leetcode problems, which I solved
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3206-alternating-groups-i) |
@@ -799,6 +803,10 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [2643-row-with-maximum-ones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2643-row-with-maximum-ones) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
