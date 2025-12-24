@@ -330,6 +330,7 @@ Solutions of Leetcode problems, which I solved
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2401-longest-nice-subarray](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2401-longest-nice-subarray) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -638,6 +639,7 @@ Solutions of Leetcode problems, which I solved
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2401-longest-nice-subarray](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2401-longest-nice-subarray) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2527-find-xor-beauty-of-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2527-find-xor-beauty-of-array) |
@@ -738,6 +740,7 @@ Solutions of Leetcode problems, which I solved
 ## Brainteaser
 |  |
 | ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2481-strictly-palindromic-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2481-strictly-palindromic-number) |
 ## Queue
 |  |
