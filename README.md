@@ -492,6 +492,7 @@ Solutions of Leetcode problems, which I solved
 | [0214-shortest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0257-binary-tree-paths) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -574,6 +575,7 @@ Solutions of Leetcode problems, which I solved
 | [0326-power-of-three](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0728-self-dividing-numbers) |
@@ -622,6 +624,7 @@ Solutions of Leetcode problems, which I solved
 | [0338-counting-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
