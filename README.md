@@ -272,6 +272,7 @@ Solutions of Leetcode problems, which I solved
 | [0347-top-k-frequent-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -578,6 +579,7 @@ Solutions of Leetcode problems, which I solved
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0477-total-hamming-distance) |
 | [0728-self-dividing-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -627,6 +629,7 @@ Solutions of Leetcode problems, which I solved
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0477-total-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0868-binary-gap) |
