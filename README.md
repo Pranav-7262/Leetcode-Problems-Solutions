@@ -329,6 +329,7 @@ Solutions of Leetcode problems, which I solved
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2317-maximum-xor-after-operations](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2329-maximum-product-after-k-increments](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2401-longest-nice-subarray](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -596,6 +597,7 @@ Solutions of Leetcode problems, which I solved
 | [1925-count-square-sum-triples](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2317-maximum-xor-after-operations](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2527-find-xor-beauty-of-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2527-find-xor-beauty-of-array) |
@@ -645,6 +647,7 @@ Solutions of Leetcode problems, which I solved
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2317-maximum-xor-after-operations](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2401-longest-nice-subarray](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2427-first-letter-to-appear-twice) |
