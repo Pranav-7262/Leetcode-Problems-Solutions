@@ -824,6 +824,7 @@ Solutions of Leetcode problems, which I solved
 | [1179-game-play-analysis-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1179-game-play-analysis-i) |
 | [1683-invalid-tweets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1693-daily-leads-and-partners) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Rolling Hash
 |  |
