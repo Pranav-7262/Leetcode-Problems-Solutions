@@ -825,6 +825,7 @@ Solutions of Leetcode problems, which I solved
 | [0596-classes-with-at-least-5-students](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0620-not-boring-movies) |
+| [1068-product-sales-analysis-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1148-article-views-i) |
 | [1179-game-play-analysis-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1179-game-play-analysis-i) |
 | [1683-invalid-tweets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1683-invalid-tweets) |
