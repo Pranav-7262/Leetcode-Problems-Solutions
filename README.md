@@ -250,6 +250,7 @@ Solutions of Leetcode problems, which I solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -264,6 +265,7 @@ Solutions of Leetcode problems, which I solved
 | [0011-container-with-most-water](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0118-pascals-triangle) |
@@ -392,6 +394,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0409-longest-palindrome) |
