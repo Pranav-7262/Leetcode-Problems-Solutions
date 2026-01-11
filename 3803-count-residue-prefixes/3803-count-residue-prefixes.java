@@ -1,19 +1,15 @@
 class Solution {
     public int residuePrefixes(String s) {
         int count = 0;
-         for(int i=1;i<=s.length();i++) {
-             if(isValid(s.substring(0,i))) {
-                 count++;
-             }
-         }
-        return count;
-    }
-    private static boolean isValid(String s) {
-        int len = s.length();
-        HashSet<Character> set = new HashSet<>();
-        for(char ch : s.toCharArray()) {
-            set.add(ch);
+      HashSet<Character> set = new HashSet<>();
+         for(int i=0;i<s.length();i++) {
+            set.add(s.charAt(i));
+            int pen =i+1;
+
+            if(set.size() == pen % 3) {
+                count++;
+            }
         }
-        return set.size() == len % 3;
-    }
+        return count;
+ }
 }
