@@ -850,6 +850,7 @@ Solutions of Leetcode problems, which I solved
 | [1068-product-sales-analysis-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1148-article-views-i) |
 | [1179-game-play-analysis-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1179-game-play-analysis-i) |
+| [1484-group-sold-products-by-the-date](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1661-average-time-of-process-per-machine](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1693-daily-leads-and-partners) |
