@@ -862,6 +862,7 @@ Solutions of Leetcode problems, which I solved
 | [0626-exchange-seats](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1148-article-views-i) |
+| [1174-immediate-food-delivery-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1179-game-play-analysis-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1179-game-play-analysis-i) |
 | [1484-group-sold-products-by-the-date](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
