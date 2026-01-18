@@ -15,7 +15,6 @@ class Solution {
                 stack.push(Integer.parseInt(operations[i]));
             }
         }
-
         int sum = 0;
         for (int val : stack) {
             sum += val;
