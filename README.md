@@ -211,6 +211,7 @@ Solutions of Leetcode problems, which I solved
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0654-maximum-binary-tree) |
@@ -410,6 +411,7 @@ Solutions of Leetcode problems, which I solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0611-valid-triangle-number) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -526,6 +528,7 @@ Solutions of Leetcode problems, which I solved
 | [0242-valid-anagram](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0402-remove-k-digits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -729,6 +732,7 @@ Solutions of Leetcode problems, which I solved
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0654-maximum-binary-tree) |
