@@ -379,6 +379,7 @@ Solutions of Leetcode problems, which I solved
 | [3206-alternating-groups-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3206-alternating-groups-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3452-sum-of-good-numbers) |
@@ -705,6 +706,7 @@ Solutions of Leetcode problems, which I solved
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Recursion
