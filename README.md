@@ -384,6 +384,7 @@ Solutions of Leetcode problems, which I solved
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3452-sum-of-good-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -516,6 +517,7 @@ Solutions of Leetcode problems, which I solved
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -586,6 +588,7 @@ Solutions of Leetcode problems, which I solved
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0234-palindrome-linked-list](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0234-palindrome-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -609,6 +612,7 @@ Solutions of Leetcode problems, which I solved
 | [1753-maximum-score-from-removing-stones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1753-maximum-score-from-removing-stones) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2329-maximum-product-after-k-increments) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
 |  |
@@ -814,6 +818,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -832,6 +837,7 @@ Solutions of Leetcode problems, which I solved
 | [2288-count-operations-to-obtain-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2899-last-visited-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2899-last-visited-integers) |
 | [3336-water-bottles-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3336-water-bottles-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -897,6 +903,10 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
