@@ -339,6 +339,7 @@ Solutions of Leetcode problems, which I solved
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1944-truncate-sentence) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -459,6 +460,7 @@ Solutions of Leetcode problems, which I solved
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1970-sorting-the-sentence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1970-sorting-the-sentence) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -769,6 +771,7 @@ Solutions of Leetcode problems, which I solved
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1873-longest-nice-substring) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2401-longest-nice-subarray](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
