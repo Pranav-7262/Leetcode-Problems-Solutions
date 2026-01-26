@@ -316,6 +316,7 @@ Solutions of Leetcode problems, which I solved
 | [1034-subarrays-with-k-different-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1046-last-stone-weight) |
+| [1200-minimum-absolute-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -457,6 +458,7 @@ Solutions of Leetcode problems, which I solved
 | [0769-max-chunks-to-make-sorted](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0905-sort-array-by-parity](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1200-minimum-absolute-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1970-sorting-the-sentence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1970-sorting-the-sentence) |
