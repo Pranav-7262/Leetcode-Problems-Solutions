@@ -283,6 +283,7 @@ Solutions of Leetcode problems, which I solved
 | [0135-candy](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -445,6 +446,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0242-valid-anagram) |
@@ -479,6 +481,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0409-longest-palindrome) |
@@ -597,6 +600,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -792,6 +796,7 @@ Solutions of Leetcode problems, which I solved
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
