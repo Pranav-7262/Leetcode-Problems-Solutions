@@ -378,6 +378,7 @@ Solutions of Leetcode problems, which I solved
 | [2917-find-the-k-or-of-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -477,6 +478,7 @@ Solutions of Leetcode problems, which I solved
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3859-maximum-product-of-two-digits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3859-maximum-product-of-two-digits) |
@@ -523,6 +525,7 @@ Solutions of Leetcode problems, which I solved
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
