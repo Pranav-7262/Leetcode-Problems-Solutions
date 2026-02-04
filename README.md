@@ -327,6 +327,7 @@ Solutions of Leetcode problems, which I solved
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -831,6 +832,7 @@ Solutions of Leetcode problems, which I solved
 ## Brainteaser
 |  |
 | ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2481-strictly-palindromic-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2481-strictly-palindromic-number) |
 ## Queue
@@ -853,6 +855,7 @@ Solutions of Leetcode problems, which I solved
 | [0067-add-binary](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0735-asteroid-collision) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2058-concatenation-of-array) |
