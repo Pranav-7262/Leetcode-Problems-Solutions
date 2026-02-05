@@ -390,6 +390,7 @@ Solutions of Leetcode problems, which I solved
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3379-transformed-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3452-sum-of-good-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -864,6 +865,7 @@ Solutions of Leetcode problems, which I solved
 | [2288-count-operations-to-obtain-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2899-last-visited-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2899-last-visited-integers) |
 | [3336-water-bottles-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
