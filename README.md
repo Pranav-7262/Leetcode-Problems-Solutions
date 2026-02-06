@@ -400,6 +400,7 @@ Solutions of Leetcode problems, which I solved
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3637-trionic-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -488,6 +489,7 @@ Solutions of Leetcode problems, which I solved
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3859-maximum-product-of-two-digits) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
@@ -807,6 +809,7 @@ Solutions of Leetcode problems, which I solved
 | [3206-alternating-groups-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3206-alternating-groups-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bucket Sort
 |  |
 | ------- |
