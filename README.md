@@ -560,6 +560,7 @@ Solutions of Leetcode problems, which I solved
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -614,6 +615,7 @@ Solutions of Leetcode problems, which I solved
 | [3396-valid-word](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3396-valid-word) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3707-equal-score-substrings](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3707-equal-score-substrings) |
+| [3713-longest-balanced-substring-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
@@ -851,6 +853,7 @@ Solutions of Leetcode problems, which I solved
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3713-longest-balanced-substring-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
@@ -922,6 +925,7 @@ Solutions of Leetcode problems, which I solved
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Database
 |  |
 | ------- |
