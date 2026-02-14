@@ -397,6 +397,7 @@ Solutions of Leetcode problems, which I solved
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3206-alternating-groups-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -662,6 +663,7 @@ Solutions of Leetcode problems, which I solved
 | [1753-maximum-score-from-removing-stones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1753-maximum-score-from-removing-stones) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2329-maximum-product-after-k-increments) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
@@ -699,6 +701,7 @@ Solutions of Leetcode problems, which I solved
 | [2527-find-xor-beauty-of-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3336-water-bottles-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3336-water-bottles-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -895,6 +898,7 @@ Solutions of Leetcode problems, which I solved
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2899-last-visited-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2899-last-visited-integers) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3336-water-bottles-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
