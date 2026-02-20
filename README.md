@@ -366,6 +366,7 @@ Solutions of Leetcode problems, which I solved
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2270-number-of-ways-to-split-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -789,6 +790,7 @@ Solutions of Leetcode problems, which I solved
 | [1829-maximum-xor-for-each-query](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2102-find-the-middle-index-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2485-find-the-pivot-integer](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2714-left-and-right-sum-differences) |
