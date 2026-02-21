@@ -435,6 +435,7 @@ Solutions of Leetcode problems, which I solved
 | [0905-sort-array-by-parity](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2481-strictly-palindromic-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -831,6 +832,7 @@ Solutions of Leetcode problems, which I solved
 | [1813-maximum-erasure-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1873-longest-nice-substring) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2401-longest-nice-subarray](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
