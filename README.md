@@ -60,6 +60,7 @@ Solutions of Leetcode problems, which I solved
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -119,6 +120,7 @@ Solutions of Leetcode problems, which I solved
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -150,6 +152,7 @@ Solutions of Leetcode problems, which I solved
 | [1046-max-consecutive-ones-iii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
@@ -204,6 +207,7 @@ Solutions of Leetcode problems, which I solved
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -497,6 +501,7 @@ Solutions of Leetcode problems, which I solved
 | [0905-sort-array-by-parity](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1200-minimum-absolute-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1200-minimum-absolute-difference) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
