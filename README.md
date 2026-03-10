@@ -135,6 +135,7 @@ Solutions of Leetcode problems, which I solved
 | [0098-validate-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -302,6 +303,7 @@ Solutions of Leetcode problems, which I solved
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0274-h-index) |
@@ -805,6 +807,7 @@ Solutions of Leetcode problems, which I solved
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -838,6 +841,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0643-maximum-average-subarray-i) |
