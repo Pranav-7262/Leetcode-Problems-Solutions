@@ -431,6 +431,7 @@ Solutions of Leetcode problems, which I solved
 | [3719-longest-balanced-subarray-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3862-find-the-smallest-balanced-index) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
@@ -828,6 +829,7 @@ Solutions of Leetcode problems, which I solved
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3707-equal-score-substrings](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3707-equal-score-substrings) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3862-find-the-smallest-balanced-index) |
 ## Monotonic Stack
 |  |
 | ------- |
