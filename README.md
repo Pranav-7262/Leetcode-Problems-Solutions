@@ -132,6 +132,7 @@ Solutions of Leetcode problems, which I solved
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -290,6 +291,7 @@ Solutions of Leetcode problems, which I solved
 | [0011-container-with-most-water](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0055-jump-game) |
