@@ -432,6 +432,7 @@ Solutions of Leetcode problems, which I solved
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -458,6 +459,7 @@ Solutions of Leetcode problems, which I solved
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2481-strictly-palindromic-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
 | ------- |
@@ -1018,6 +1020,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [2643-row-with-maximum-ones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2643-row-with-maximum-ones) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Trie
 |  |
 | ------- |
