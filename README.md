@@ -423,6 +423,7 @@ Solutions of Leetcode problems, which I solved
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3379-transformed-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3379-transformed-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3452-sum-of-good-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -749,6 +750,7 @@ Solutions of Leetcode problems, which I solved
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3336-water-bottles-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3336-water-bottles-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -889,6 +891,7 @@ Solutions of Leetcode problems, which I solved
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3206-alternating-groups-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bucket Sort
@@ -971,6 +974,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Function
 |  |
@@ -986,6 +990,7 @@ Solutions of Leetcode problems, which I solved
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3713-longest-balanced-substring-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Database
 |  |
