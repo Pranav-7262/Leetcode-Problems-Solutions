@@ -429,6 +429,7 @@ Solutions of Leetcode problems, which I solved
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -843,6 +844,7 @@ Solutions of Leetcode problems, which I solved
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3707-equal-score-substrings](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3707-equal-score-substrings) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -991,6 +993,7 @@ Solutions of Leetcode problems, which I solved
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Database
 |  |
@@ -1028,6 +1031,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [2643-row-with-maximum-ones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2643-row-with-maximum-ones) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Trie
 |  |
