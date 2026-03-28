@@ -235,6 +235,7 @@ Solutions of Leetcode problems, which I solved
 | [0769-max-chunks-to-make-sorted](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0856-score-of-parentheses) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -628,6 +629,7 @@ Solutions of Leetcode problems, which I solved
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0696-count-binary-substrings) |
+| [0856-score-of-parentheses](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0856-score-of-parentheses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
