@@ -539,6 +539,7 @@ Solutions of Leetcode problems, which I solved
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -589,6 +590,7 @@ Solutions of Leetcode problems, which I solved
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -657,6 +659,7 @@ Solutions of Leetcode problems, which I solved
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
