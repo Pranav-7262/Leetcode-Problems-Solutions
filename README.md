@@ -399,6 +399,7 @@ Solutions of Leetcode problems, which I solved
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2527-find-xor-beauty-of-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -466,6 +467,7 @@ Solutions of Leetcode problems, which I solved
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2481-strictly-palindromic-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
