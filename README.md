@@ -312,6 +312,7 @@ Solutions of Leetcode problems, which I solved
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0274-h-index) |
+| [0303-range-sum-query-immutable](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -839,6 +840,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -1061,6 +1063,10 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
