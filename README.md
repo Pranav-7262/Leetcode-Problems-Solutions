@@ -444,6 +444,7 @@ Solutions of Leetcode problems, which I solved
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
@@ -614,6 +615,7 @@ Solutions of Leetcode problems, which I solved
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
