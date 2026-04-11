@@ -314,6 +314,7 @@ Solutions of Leetcode problems, which I solved
 | [0274-h-index](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
+| [0334-increasing-triplet-subsequence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -481,6 +482,7 @@ Solutions of Leetcode problems, which I solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0611-valid-triangle-number) |
