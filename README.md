@@ -335,6 +335,7 @@ Solutions of Leetcode problems, which I solved
 | [0735-asteroid-collision](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0845-longest-mountain-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0845-longest-mountain-in-array) |
@@ -1051,6 +1052,7 @@ Solutions of Leetcode problems, which I solved
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
