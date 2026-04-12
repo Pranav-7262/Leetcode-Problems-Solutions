@@ -396,6 +396,7 @@ Solutions of Leetcode problems, which I solved
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2317-maximum-xor-after-operations](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2317-maximum-xor-after-operations) |
 | [2329-maximum-product-after-k-increments](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2329-maximum-product-after-k-increments) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2401-longest-nice-subarray](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1053,6 +1054,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
