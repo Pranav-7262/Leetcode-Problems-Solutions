@@ -778,6 +778,7 @@ Solutions of Leetcode problems, which I solved
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3859-maximum-product-of-two-digits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## String Matching
 |  |
