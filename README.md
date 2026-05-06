@@ -238,6 +238,7 @@ Solutions of Leetcode problems, which I solved
 | [0856-score-of-parentheses](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0856-score-of-parentheses) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -359,6 +360,7 @@ Solutions of Leetcode problems, which I solved
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
@@ -882,6 +884,7 @@ Solutions of Leetcode problems, which I solved
 | [0654-maximum-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sliding Window
 |  |
