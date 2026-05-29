@@ -437,6 +437,7 @@ Solutions of Leetcode problems, which I solved
 | [3206-alternating-groups-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3206-alternating-groups-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -787,6 +788,7 @@ Solutions of Leetcode problems, which I solved
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3210-count-beautiful-substrings-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3210-count-beautiful-substrings-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3336-water-bottles-ii) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
