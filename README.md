@@ -373,6 +373,7 @@ Solutions of Leetcode problems, which I solved
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1580-shuffle-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -513,6 +514,7 @@ Solutions of Leetcode problems, which I solved
 | [1338-reduce-array-size-to-the-half](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1448-maximum-69-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1753-maximum-score-from-removing-stones) |
@@ -555,6 +557,7 @@ Solutions of Leetcode problems, which I solved
 | [1338-reduce-array-size-to-the-half](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1970-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -771,6 +774,7 @@ Solutions of Leetcode problems, which I solved
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1448-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1642-water-bottles](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1642-water-bottles) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1753-maximum-score-from-removing-stones) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -1102,6 +1106,10 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
