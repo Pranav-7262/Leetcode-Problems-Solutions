@@ -418,6 +418,7 @@ Solutions of Leetcode problems, which I solved
 | [2553-separate-the-digits-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2643-row-with-maximum-ones) |
+| [2670-find-the-distinct-difference-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2683-neighboring-bitwise-xor](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2683-neighboring-bitwise-xor) |
 | [2714-left-and-right-sum-differences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -622,6 +623,7 @@ Solutions of Leetcode problems, which I solved
 | [2427-first-letter-to-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2670-find-the-distinct-difference-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2670-find-the-distinct-difference-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
