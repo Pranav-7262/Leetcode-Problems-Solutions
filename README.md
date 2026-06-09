@@ -652,6 +652,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
