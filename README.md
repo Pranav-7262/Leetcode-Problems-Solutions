@@ -429,6 +429,7 @@ Solutions of Leetcode problems, which I solved
 | [2932-maximum-strong-pair-xor-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -529,6 +530,7 @@ Solutions of Leetcode problems, which I solved
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -575,6 +577,7 @@ Solutions of Leetcode problems, which I solved
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
