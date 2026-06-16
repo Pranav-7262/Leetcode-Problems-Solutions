@@ -874,6 +874,7 @@ Solutions of Leetcode problems, which I solved
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Recursion
 |  |
 | ------- |
