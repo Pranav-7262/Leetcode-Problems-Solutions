@@ -379,6 +379,7 @@ Solutions of Leetcode problems, which I solved
 | [1580-shuffle-the-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1590-make-sum-divisible-by-p) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-decode-xored-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1720-decode-xored-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -522,6 +523,7 @@ Solutions of Leetcode problems, which I solved
 | [1402-reducing-dishes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1402-reducing-dishes) |
 | [1448-maximum-69-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1448-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1753-maximum-score-from-removing-stones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1753-maximum-score-from-removing-stones) |
@@ -568,6 +570,7 @@ Solutions of Leetcode problems, which I solved
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1402-reducing-dishes) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1970-sorting-the-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
