@@ -286,6 +286,7 @@ Solutions of Leetcode problems, which I solved
 | [0338-counting-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0338-counting-bits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0845-longest-mountain-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0845-longest-mountain-in-array) |
+| [1402-reducing-dishes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -363,6 +364,7 @@ Solutions of Leetcode problems, which I solved
 | [1338-reduce-array-size-to-the-half](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1402-reducing-dishes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1402-reducing-dishes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -517,6 +519,7 @@ Solutions of Leetcode problems, which I solved
 | [1285-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1382-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1402-reducing-dishes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1402-reducing-dishes) |
 | [1448-maximum-69-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1448-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -563,6 +566,7 @@ Solutions of Leetcode problems, which I solved
 | [1338-reduce-array-size-to-the-half](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1402-reducing-dishes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1402-reducing-dishes) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1970-sorting-the-sentence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1970-sorting-the-sentence) |
