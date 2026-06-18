@@ -789,6 +789,7 @@ Solutions of Leetcode problems, which I solved
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1448-maximum-69-number) |
