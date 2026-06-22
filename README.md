@@ -616,6 +616,7 @@ Solutions of Leetcode problems, which I solved
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -686,6 +687,7 @@ Solutions of Leetcode problems, which I solved
 | [0944-delete-columns-to-make-sorted](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
+| [1189-maximum-number-of-balloons](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -980,6 +982,7 @@ Solutions of Leetcode problems, which I solved
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
