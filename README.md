@@ -480,6 +480,7 @@ Solutions of Leetcode problems, which I solved
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -598,6 +599,7 @@ Solutions of Leetcode problems, which I solved
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0409-longest-palindrome) |
@@ -779,6 +781,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0067-add-binary](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0342-power-of-four) |
