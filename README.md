@@ -297,6 +297,7 @@ Solutions of Leetcode problems, which I solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
@@ -595,6 +596,7 @@ Solutions of Leetcode problems, which I solved
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
