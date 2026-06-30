@@ -311,6 +311,7 @@ Solutions of Leetcode problems, which I solved
 | [0118-pascals-triangle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0136-single-number) |
@@ -605,6 +606,7 @@ Solutions of Leetcode problems, which I solved
 | [0001-two-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0202-happy-number) |
@@ -1148,6 +1150,10 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
