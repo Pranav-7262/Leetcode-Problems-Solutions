@@ -757,6 +757,7 @@ Solutions of Leetcode problems, which I solved
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0234-palindrome-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
