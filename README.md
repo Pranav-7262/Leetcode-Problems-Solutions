@@ -477,6 +477,7 @@ Solutions of Leetcode problems, which I solved
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3834-merge-adjacent-equal-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-merge-adjacent-equal-elements) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3862-find-the-smallest-balanced-index) |
+| [3903-smallest-stable-index-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
@@ -939,6 +940,7 @@ Solutions of Leetcode problems, which I solved
 | [3707-equal-score-substrings](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3707-equal-score-substrings) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3862-find-the-smallest-balanced-index) |
+| [3903-smallest-stable-index-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Monotonic Stack
 |  |
 | ------- |
