@@ -15,25 +15,31 @@
  */
 class Solution {
     public boolean findTarget(TreeNode root, int k) {
-        List<Integer> sortedList = new ArrayList<>();
-        inorder(root, sortedList);
+        ArrayList<Integer> list = new ArrayList<>();
+        inOrder(root, list);
 
-        int left = 0, right = sortedList.size() - 1;
+        int s = 0;
+        int e = list.size() - 1;
 
-        while (left < right) {
-            int sum = sortedList.get(left) + sortedList.get(right);
-            if (sum == k) return true;
-            else if (sum < k) left++;
-            else right--;
+        while (s < e) {
+            int sum = list.get(s) + list.get(e);
+            if (sum == k) {
+                return true;
+            } else if (sum > k) {
+                e--;
+            } else {
+                s++;
+            }
         }
         return false;
     }
 
-    private void inorder(TreeNode node, List<Integer> list) {
-        if (node == null) return;
-        inorder(node.left, list);
-        list.add(node.val);
-        inorder(node.right, list);
-    
+    public void inOrder(TreeNode root, ArrayList<Integer> list) {
+
+        if (root == null)
+            return;
+        inOrder(root.left, list);
+        list.add(root.val);
+        inOrder(root.right, list);
     }
 }
