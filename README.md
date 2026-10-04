@@ -236,6 +236,7 @@ Solutions of Leetcode problems, which I solved
 | [0496-next-greater-element-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0735-asteroid-collision) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -290,6 +291,7 @@ Solutions of Leetcode problems, which I solved
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0845-longest-mountain-in-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [1402-reducing-dishes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1402-reducing-dishes) |
@@ -524,6 +526,7 @@ Solutions of Leetcode problems, which I solved
 | [0402-remove-k-digits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0409-longest-palindrome) |
 | [0611-valid-triangle-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
@@ -702,6 +705,7 @@ Solutions of Leetcode problems, which I solved
 | [0451-sort-characters-by-frequency](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0468-validate-ip-address) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0696-count-binary-substrings) |
 | [0856-score-of-parentheses](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0856-score-of-parentheses) |
@@ -1173,6 +1177,7 @@ Solutions of Leetcode problems, which I solved
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
