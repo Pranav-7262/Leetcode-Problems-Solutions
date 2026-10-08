@@ -246,6 +246,7 @@ Solutions of Leetcode problems, which I solved
 | [0856-score-of-parentheses](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0856-score-of-parentheses) |
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -712,6 +713,7 @@ Solutions of Leetcode problems, which I solved
 | [0944-delete-columns-to-make-sorted](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1178,6 +1180,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
