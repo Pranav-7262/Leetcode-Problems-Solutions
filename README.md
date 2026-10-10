@@ -310,6 +310,7 @@ Solutions of Leetcode problems, which I solved
 | [0011-container-with-most-water](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0049-group-anagrams) |
@@ -494,6 +495,7 @@ Solutions of Leetcode problems, which I solved
 | [0016-3sum-closest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0141-linked-list-cycle) |
