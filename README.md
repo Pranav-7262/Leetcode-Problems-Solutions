@@ -239,6 +239,7 @@ Solutions of Leetcode problems, which I solved
 | [0678-valid-parenthesis-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -354,6 +355,7 @@ Solutions of Leetcode problems, which I solved
 | [0713-subarray-product-less-than-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
@@ -964,6 +966,7 @@ Solutions of Leetcode problems, which I solved
 | [0496-next-greater-element-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
