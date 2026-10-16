@@ -98,6 +98,7 @@ Solutions of Leetcode problems, which I solved
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -267,6 +268,7 @@ Solutions of Leetcode problems, which I solved
 | [0404-sum-of-left-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -1183,12 +1185,17 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0547-number-of-provinces) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->ons
 Solutions of Leetcode problems, which I solved
 
