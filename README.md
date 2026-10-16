@@ -86,6 +86,7 @@ Solutions of Leetcode problems, which I solved
 | [0129-sum-root-to-leaf-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -264,6 +265,7 @@ Solutions of Leetcode problems, which I solved
 | [0111-minimum-depth-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -331,6 +333,7 @@ Solutions of Leetcode problems, which I solved
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0228-summary-ranges) |
@@ -1151,6 +1154,7 @@ Solutions of Leetcode problems, which I solved
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -1185,6 +1189,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0547-number-of-provinces) |
 ## Bracket Sequences
 |  |
