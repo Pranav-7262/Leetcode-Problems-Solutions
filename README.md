@@ -119,6 +119,7 @@ Solutions of Leetcode problems, which I solved
 | [0933-increasing-order-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1005-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -281,6 +282,7 @@ Solutions of Leetcode problems, which I solved
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1005-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1020-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -377,6 +379,7 @@ Solutions of Leetcode problems, which I solved
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1020-number-of-enclaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1020-number-of-enclaves) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1046-last-stone-weight) |
@@ -1158,6 +1161,7 @@ Solutions of Leetcode problems, which I solved
 | ------- |
 | [0200-number-of-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
+| [1020-number-of-enclaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1020-number-of-enclaves) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -1193,6 +1197,7 @@ Solutions of Leetcode problems, which I solved
 | [0128-longest-consecutive-sequence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1020-number-of-enclaves) |
 ## Bracket Sequences
 |  |
 | ------- |
