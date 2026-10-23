@@ -770,6 +770,7 @@ Solutions of Leetcode problems, which I solved
 | [3707-equal-score-substrings](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3707-equal-score-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
