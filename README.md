@@ -109,6 +109,7 @@ Solutions of Leetcode problems, which I solved
 | [0669-trim-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0695-max-area-of-island) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -277,6 +278,7 @@ Solutions of Leetcode problems, which I solved
 | [0547-number-of-provinces](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0695-max-area-of-island) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -362,6 +364,7 @@ Solutions of Leetcode problems, which I solved
 | [0643-maximum-average-subarray-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -1164,6 +1167,7 @@ Solutions of Leetcode problems, which I solved
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1020-number-of-enclaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -1202,6 +1206,7 @@ Solutions of Leetcode problems, which I solved
 | [0128-longest-consecutive-sequence](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
