@@ -127,6 +127,7 @@ Solutions of Leetcode problems, which I solved
 | [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1254-number-of-closed-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1285-balance-a-binary-search-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -286,6 +287,7 @@ Solutions of Leetcode problems, which I solved
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1254-number-of-closed-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1731-even-odd-tree) |
@@ -387,6 +389,7 @@ Solutions of Leetcode problems, which I solved
 | [1207-delete-nodes-and-return-forest](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1254-number-of-closed-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1163,6 +1166,7 @@ Solutions of Leetcode problems, which I solved
 | [0200-number-of-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0766-toeplitz-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1020-number-of-enclaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -1199,6 +1203,7 @@ Solutions of Leetcode problems, which I solved
 | [0200-number-of-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
