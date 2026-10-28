@@ -139,6 +139,7 @@ Solutions of Leetcode problems, which I solved
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -295,6 +296,7 @@ Solutions of Leetcode problems, which I solved
 | [1731-even-odd-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -493,6 +495,7 @@ Solutions of Leetcode problems, which I solved
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -1174,6 +1177,7 @@ Solutions of Leetcode problems, which I solved
 | [2373-largest-local-values-in-a-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Trie
 |  |
@@ -1209,6 +1213,7 @@ Solutions of Leetcode problems, which I solved
 | [0695-max-area-of-island](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
 | ------- |
