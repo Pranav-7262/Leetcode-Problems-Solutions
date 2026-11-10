@@ -508,6 +508,7 @@ Solutions of Leetcode problems, which I solved
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -886,6 +887,7 @@ Solutions of Leetcode problems, which I solved
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3859-maximum-product-of-two-digits](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3859-maximum-product-of-two-digits) |
