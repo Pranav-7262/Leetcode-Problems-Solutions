@@ -481,6 +481,7 @@ Solutions of Leetcode problems, which I solved
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3206-alternating-groups-i) |
