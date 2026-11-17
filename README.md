@@ -287,6 +287,7 @@ Solutions of Leetcode problems, which I solved
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0994-rotting-oranges) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1005-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1020-number-of-enclaves) |
@@ -390,6 +391,7 @@ Solutions of Leetcode problems, which I solved
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0979-di-string-match](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0994-rotting-oranges](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0994-rotting-oranges) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1020-number-of-enclaves) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1183,6 +1185,7 @@ Solutions of Leetcode problems, which I solved
 | [0200-number-of-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0994-rotting-oranges](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/1267-count-servers-that-communicate) |
