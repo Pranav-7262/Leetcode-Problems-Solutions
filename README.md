@@ -781,6 +781,7 @@ Solutions of Leetcode problems, which I solved
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
