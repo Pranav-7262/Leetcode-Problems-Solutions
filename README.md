@@ -463,6 +463,7 @@ Solutions of Leetcode problems, which I solved
 | [2527-find-xor-beauty-of-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2527-find-xor-beauty-of-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2670-find-the-distinct-difference-array](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2670-find-the-distinct-difference-array) |
@@ -588,6 +589,7 @@ Solutions of Leetcode problems, which I solved
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2329-maximum-product-after-k-increments](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -638,6 +640,7 @@ Solutions of Leetcode problems, which I solved
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Pranav-7262/Leetcode-Problems-Solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
